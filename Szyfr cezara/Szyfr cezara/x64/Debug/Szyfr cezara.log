@@ -1,0 +1,3 @@
+﻿  Szyfr cezara.cpp
+C:\Users\mkrasowski146\Desktop\Szyfr cezara\Szyfr cezara\Szyfr cezara.cpp(7,22): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Szyfr cezara.vcxproj -> C:\Users\mkrasowski146\Desktop\Szyfr cezara\x64\Debug\Szyfr cezara.exe
