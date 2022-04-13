@@ -46,5 +46,5 @@ int main()
 	szyfrCezara(tablica, klucz);
 	cout << "Po zaszyfrowaniu: " << tablica<<endl;
 	szyfrCezara(tablica, -klucz);
-	cout << "Po zaszyfrowaniu: " << tablica;
+	cout << "Po odszyfrowaniu: " << tablica;
 }
